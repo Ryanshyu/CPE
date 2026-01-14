@@ -19,4 +19,4 @@ This repository is a set of solution to CPE test question bank written in C, C++
 [two]:https://github.com/KaidenHsu/CPE/tree/master/2.TwoStars
 [three]:https://github.com/KaidenHsu/CPE/tree/master/3.ThreeStars
 
-<p align="center"><img src="/images/CPE_Handbook.jpg" alt="CPE handbook" width="360" /></p>
+<p align="center"><img src="/images/CPE_Handbook.jpg" alt="CPE handbook" width="300" /></p>
